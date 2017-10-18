@@ -4,7 +4,7 @@
 
  My first ever README has been difficult. I felt there were so many tools and outlets to how to understand the assignment that I wasn't sure just where to get started. After exploring all of my resources and finishing the GitHub tutorial/readings, I felt **so silly** for even struggling with the assignment! It was clean cut and percisley enough information to figure out how to get to this point in Project #1.
 
- I am now getting more and more excited for the course because I know that this information will be applicable to a professional job, but also is *critical* in creating a competitive advantage in job interviews. 
+ I am now getting more and more excited for the course because I know that this information will be applicable to a professional job, but also is *critical* in creating a competitive advantage in job interviews.
 
 ---
 
@@ -19,7 +19,8 @@ This will improve my:
 3. How I can benefit companies through desining websites
 
 Screenshot:
-![screenshot of my directory](C:\Users\Jeremiah\Documents\Jace\Homework\Web-Dev HW\Project 1\images\screenshot1.png)
+
+![screenshot of my directory](./image/screenshot1.png)
 
 ---
 Snooping:
