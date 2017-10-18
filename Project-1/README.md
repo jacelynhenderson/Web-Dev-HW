@@ -20,7 +20,7 @@ This will improve my:
 
 Screenshot:
 
-![screenshot of my directory](./image/screenshot1.png)
+![screenshot of my directory](./images/screenshot1.png)
 
 ---
 Snooping:
