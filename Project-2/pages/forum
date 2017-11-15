@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Jacelyn's Garlic Spaghetti</title>
+    </head>
+    <body>
+      <h1> Jacelyn's Garlic Spaghetti </h1>
+      <p> Jacelyn's garlic spaghetti is a delicious and simple meal the whole family will enjoy! If you want to learn just how to make this scrumptious dinner click the link below.</p>
+      <a href="./pages/instructions.html">Proceed to Instructions<a/>
+    </body>
+    <body>
+      <!--insert order form here-->
+  </html>
