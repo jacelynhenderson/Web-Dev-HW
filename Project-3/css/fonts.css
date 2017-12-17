@@ -1,0 +1,29 @@
+<Style>
+@import url('https://fonts.googleapis.com/css?family=Euphoria+Script|Norican');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+
+@font-face {
+  font-family: 'Euphoria+Script', cursive;
+    src:
+        url('../fonts/EuphoriaScript.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+    @font-face {
+      font-family: 'Norican', cursive;
+        src:
+            url('../fonts/Norican.ttf') format('opentype');
+        font-weight: normal;
+        font-style: normal;
+}
+
+      @font-face {
+        font-family: 'Dancing Script', sans-serif;
+          src:
+              url('../fonts/DancingScript.ttf') format('opentype');
+          font-weight: normal;
+          font-style: normal;
+}
+</style>
