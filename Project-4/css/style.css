@@ -1,0 +1,120 @@
+body {
+  text-align: center;
+  font-family: 'Norican', cursive;
+  font-family: 'Euphoria_Script', cursive;
+background-color: #F2F9F1;}
+
+p {
+    text-indent: 25px;
+    text-align: center
+}
+
+h1 {font-family: 'Dancing_Script', cursive
+text-align: center;}
+
+header {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.lower-header {
+
+    margin: 0;
+    background-color: #FF3900;
+    height: auto;;
+    display: flex;
+text-align: center;
+    flex-wrap: wrap;
+    width: inherit;
+}
+
+.site-name {
+  font-family: 'Euphoria_Script', cursive;
+    text-align: center;
+
+
+    font-weight: lighter;
+    font-size: 2.6em;
+    color: #FF7900;
+}
+
+.container {
+
+  display: flex;
+text-align: center;
+  flex-wrap: wrap;
+}
+
+.c1 {width: 100%;
+background-color: #E1EFE6
+}
+ .c2 {width: 100%;
+ background-color: #A4AE88
+ }
+ .c3 {width: 100%;
+ background-color: #679002
+ }
+
+
+
+ @media (min-width: 320px) {
+
+   .c3 {
+     width: 100%;
+
+
+
+   }
+   .c1 {
+     width: 100%;
+
+   }
+
+   .c2 {
+     width: 100%;
+
+   }
+@media (min-width: 600px) {
+
+  .c3 {
+    width: 100%;
+
+
+
+  }
+  .c1 {
+    width: 100%;
+
+  }
+
+  .c2 {
+    width: 100%;
+
+
+  }
+
+
+}
+
+
+@media screen and (min-width: 1015px) {
+
+
+
+  .c1 {
+    width: 100%;
+
+
+  }
+  .c2 {
+    width: 50%;
+
+
+  }
+
+  .c3 {
+    width: 50%;
+    height: auto;
+
+}
